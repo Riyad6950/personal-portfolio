@@ -1,2 +1,2 @@
-# personal-portfolio
-This is my personal portfolio website . visit (10vir.me) to see .
+# My-Portfolio
+A responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects, skills, and developer journey.
